@@ -18,7 +18,7 @@ body{
 }
 
 #menu{
-    height: 1200px;
+    height: 1215px;
     width: 300px;
     background-color: hsl(113, 71%, 84%);
     float: left;
@@ -28,7 +28,7 @@ body{
 }
 
 #conteudo{
-    height: 1200px;
+    height: 1215px;
     width: 800px;
     background-color: hsl(72, 77%, 91%);
     float: left;
@@ -38,8 +38,8 @@ body{
 }
 
 #lado{
-    height: 1140px;
-    width: 250px;
+    height: 1155px;
+    width: 238px;
     background-color:  hsl(113, 71%, 84%);
     float: left;
     margin-left: 5px;
