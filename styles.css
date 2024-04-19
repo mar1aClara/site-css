@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cabecalho{
+    height: 190px;
+    background-image: url(IMG/fundo.jpg);
+    background-size: 1800px;
+    background-repeat: no-repeat;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#menu{
+    height: 1200px;
+    width: 300px;
+    background-color: hsl(113, 71%, 84%);
+    float: left;
+    margin-left: 37px;
+    margin-top: 5px;
+    border-radius: 30px;
+}
+
+#conteudo{
+    height: 1200px;
+    width: 800px;
+    background-color: hsl(72, 77%, 91%);
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 30px;
+}
+
+#lado{
+    height: 1140px;
+    width: 250px;
+    background-color:  hsl(113, 71%, 84%);
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-block-end: 5px;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+#rodape{
+    height: 100px;
+    /*width: 300px;*/
+    background-color: rgb(205, 255, 192);
+    clear: both;
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h4{
+    color: green;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.verdinho{
+    color: green;
+}
+
+.espaco{
+    width: 760px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    border: solid lightgreen;
+    border-radius: 50px ;
+    background-color: lightgreen;
+}
+
+button:hover{
+    background-color: green;
+}
+
+.frasemotivacional{
+    padding: 10px;;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+
+}
