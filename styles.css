@@ -11,7 +11,7 @@ body{
     background-image: url(IMG/fundo.jpg);
     background-size: 1800px;
     background-repeat: no-repeat;
-    width: 95%;
+    width: 90%;
     margin: 0 auto;
     text-align: center;
     border-radius: 30px;
@@ -29,7 +29,7 @@ body{
 
 #conteudo{
     height: 1215px;
-    width: 800px;
+    width: 40%;
     background-color: hsl(72, 77%, 91%);
     float: left;
     margin-top: 5px;
