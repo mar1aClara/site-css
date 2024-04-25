@@ -20,7 +20,7 @@ body{
 #menu{
     height: 1215px;
     width: 300px;
-    background-color: hsl(113, 71%, 84%);
+    background-color: #c1f2ba;
     float: left;
     margin-left: 37px;
     margin-top: 5px;
@@ -57,10 +57,12 @@ body{
     width: 95%;
     margin: 0 auto;
     text-align: center;
+    padding: 5px;
 }
 
 h4{
     color: green;
+    text-align: center;
 }
 
 h2{
@@ -69,7 +71,7 @@ h2{
 
 p{
     text-align: justify;
-    text-indent: 20px;
+    
 }
 
 .verdinho{
@@ -104,4 +106,40 @@ button:hover{
 
 h5{
     color: green;
+}
+
+.Letra{
+    text-align: justify;
+    text-indent: 0%;
+}
+
+#indentacao{
+    text-indent: 20px;
+}
+
+#novalista{
+    text-align: justify;
+}
+
+.pequenotitulo{
+    font-size: 20px;
+    font-style: italic;
+}
+
+#outroespaco{
+    padding: 50px;
+}
+
+.inscrever{
+    background-color: #c1f2ba;
+    text-align: center;
+    padding: 60px;
+}
+
+input{
+    width: 400px;
+    height: 90px;
+    border-radius: 20px;
+    background-color: rgb(252, 241, 183);
+    border: 1px solid green;
 }
